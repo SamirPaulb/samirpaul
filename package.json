@@ -1,7 +1,0 @@
-{
-  "scripts: {
-    ...
-    "deploy": "node deploy.js"
-    ...
-  }
-}
