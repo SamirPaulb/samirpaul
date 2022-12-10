@@ -4,7 +4,7 @@
  */
 
 // Change these to match your Repo URL and the js.org domain
-const gitRepo = "https://github.com/SamirPaul1/samirpaul"
+const gitRepo = "https://github.com/SamirPaul1/samirpaul.is-a.dev"
 const domainName = "SamirPaul.is-a.dev"
 const distPath = "dist"
 

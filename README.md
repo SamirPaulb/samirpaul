@@ -1,9 +1,7 @@
 # Build A Portfolio Website
 
 ### Visit: 
-👉  https://samirpaul1.github.io/portfolio  \
-👉  https://samirpaul.vercel.app  \
-👉  https://samirpaul.netlify.app    [![Netlify Status](https://api.netlify.com/api/v1/badges/02d7a02d-7fa3-4276-a0f3-d27420ccc0d6/deploy-status)](https://app.netlify.com/sites/samirpaul/deploys)
+👉  https://samirpaul.is-a.dev/ 
 
 With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.  
 
