@@ -1,93 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://samirpaul1.github.io/index.html</loc>
+  <loc>https://samirpaul.is-a.dev</loc>
+  <lastmod>2022-07-11T07:49:18+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io</loc>
+  <loc>https://samirpaul.is-a.dev/index.html</loc>
+  <lastmod>2022-07-11T07:49:18+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/music/</loc>
+  <loc>https://samirpaul.is-a.dev/#about</loc>
+  <lastmod>2022-07-11T07:49:18+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/CodeforcesVisualizer/</loc>
+  <loc>https://samirpaul.is-a.dev/#resume</loc>
+  <lastmod>2022-07-11T07:49:18+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/MakeNotes/</loc>
+  <loc>https://samirpaul.is-a.dev/#services</loc>
+  <lastmod>2022-07-11T07:49:18+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/WeatherApp/</loc>
+  <loc>https://samirpaul.is-a.dev/#portfolio</loc>
+  <lastmod>2022-07-11T07:49:18+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/txt-compressor/</loc>
+  <loc>https://samirpaul.is-a.dev/#contact</loc>
+  <lastmod>2022-07-11T07:49:18+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/txt-compressor/info.html</loc>
+  <loc>https://samirpaul1.github.io/blog/</loc>
+  <lastmod>2022-03-25T11:35:50+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/link/</loc>
+  <loc>https://samirpaul1.github.io/link/</loc>
+  <lastmod>2022-03-25T11:35:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-1.jpg</loc>
+  <loc>https://samirpaul1.github.io/music/</loc>
+  <lastmod>2022-01-05T05:54:17+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/ https://coursera.org/share/e9fc2c97cbe6872e5d548ab16faf36a1</loc>
+  <loc>https://samirpaul1.github.io/CodeforcesVisualizer/</loc>
+  <lastmod>2021-10-28T18:32:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-2.jpg</loc>
+  <loc>https://samirpaul1.github.io/MakeNotes/</loc>
+  <lastmod>2022-05-13T02:25:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-3.jpg</loc>
+  <loc>https://samirpaul1.github.io/WeatherApp/</loc>
+  <lastmod>2021-05-05T16:33:17+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-4.jpg</loc>
+  <loc>https://samirpaul1.github.io/txt-compressor/</loc>
+  <lastmod>2022-06-09T10:51:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-5.jpg</loc>
+  <loc>https://samirpaul1.github.io/txt-compressor/info.html</loc>
+  <lastmod>2022-06-09T10:51:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-6.jpg</loc>
+  <loc>https://samirpaul1.github.io/txt-compressor/index.html</loc>
+  <lastmod>2022-06-09T10:51:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-7.jpg</loc>
+  <loc>https://samirpaul1.github.io/DSAlgo</loc>
+  <lastmod>2022-06-09T10:51:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-8.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-9.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-10.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-11.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-12.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-13.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-14.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-15.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-16.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-17.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/assets/img/portfolio/portfolio-18.jpg</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/info.html</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/SamirPaul.jpg</loc>
-</url>
+
+
 </urlset>

@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a {
-  font-size: 18px;
+  font-size: 22px;
   display: inline-block;
   background: #212431;
   color: #fff;
@@ -208,6 +208,9 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
+  background-repeat: no-repeat;  
+  background-position: 0% 0%;
+  background-size: 100% 100%;
 }
 
 #hero:before {
@@ -229,21 +232,23 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 64px;
+  font-size: 72px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  background: linear-gradient(to right, #7ff9ff, #f55ccf, #ff0078, #fcef3a);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
 
 #hero p {
-  color: #fff;
+  color: #8adeff;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: #fff;
+  color: #8adeff;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -819,15 +824,15 @@ section {
   display: none;
   color: red;
   margin: 0 0 15px 0;
-  font-weight: 400;
-  font-size: 13px;
+  font-weight: 600;
+  font-size: 14px;
 }
 
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
-  text-align: left;
+  background: #0cb85c;
+  text-align: center;
   padding: 15px;
   font-weight: 600;
 }
