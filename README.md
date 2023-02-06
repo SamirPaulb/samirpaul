@@ -1,5 +1,3 @@
-# Build A Portfolio Website
-
 ### Visit: 
 👉  https://samir.pages.dev \
 👉  https://samirpaul.pages.dev \
